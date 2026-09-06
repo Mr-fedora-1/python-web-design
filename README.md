@@ -40,4 +40,4 @@ Basic page styling
 
 
 👨‍💻 Author:
-Mr.fidora
+Mr.fedora
